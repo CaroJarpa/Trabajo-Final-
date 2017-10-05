@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"password"
+			],
+			[
+				"name",
+				"nameLength"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"get",
+				"getNthElement"
+			],
+			[
+				"ge",
+				"getNthElement"
+			],
+			[
+				"wor",
+				"word2"
+			],
+			[
+				"word",
+				"word1"
+			],
+			[
+				"so",
+				"scores"
+			],
+			[
+				"ar",
+				"newArray"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"p",
+				"payment"
+			],
+			[
+				"last",
+				"lastWord"
+			],
+			[
+				"firs",
+				"firstInitial"
+			],
+			[
+				"t",
+				"toUpperCase"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"co",
+				"contar"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"num",
+				"num2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "package control ina",
+		"selected_items":
+		[
+			[
+				"package control ina",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 379.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"var vowels = ['a','b','i','o','u']"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Caracola/Desktop/Producto Final/Tarjeta de credito/README.me",
+		"/C/Users/Caracola/Desktop/Producto Final/Tarjeta de credito/index.html",
+		"/C/Users/Caracola/Desktop/Producto Final/Tarjeta de credito/app.js",
+		"/C/Users/Caracola/Desktop/Producto Final/Validacion de datos/readme.me",
+		"/C/Users/Caracola/Desktop/Producto Final/Validacion de datos/index.html",
+		"/C/Users/Caracola/Desktop/Producto Final/Validacion de datos/app.js",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Ejercicios practicos N°12.1",
+		"/C/Users/Caracola/Desktop/Unidad 1 - Programacion Basica/Ejercicios de reto.js",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Ejercicios Miercoles 27 Sept",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria Miercoles/Ejercicios/Ejercicio 1",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria Miercoles/Ejercicio 3",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Ejercicios practicos N°8.1",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Ejercicios Martes 26 Setp.js",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria Miercoles/QUIZ 2 - MIERCOLES 6 SEPT.docx",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 8.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 7.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 6.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 2.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 5.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 4.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 3.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 1.js",
+		"/C/Users/Caracola/Desktop/hi.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 3.1",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/paroimpar.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 9.js",
+		"/C/Users/Caracola/Desktop/Ejercicios guiados/Ejercicio 15.js",
+		"/C/Users/Caracola/Desktop/app.js",
+		"/C/Users/Caracola/Desktop/Ejercicio 3",
+		"/C/Users/Caracola/Desktop/index.html",
+		"/C/Users/Caracola/Desktop/holo",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/Ejercicio 4.js",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/Ejercicio 3",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/Ejercicio 2",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/Ejercicio 4.html",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/Ejercicio 1",
+		"/C/Users/Caracola/Desktop/Ejercicio 3.1",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicios/index1.html",
+		"/C/Users/Caracola/Desktop/Laboratoria Miercoles/Ejercicio 1/Ejercicio 2",
+		"/C/Users/Caracola/Desktop/Laboratoria martes/Ejercicio 1/app.js",
+		"/C/Users/Caracola/Desktop/Laboratoria martes/Ejercicio 1/index1.html",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Mi primera web/app.js",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/Mi primera web/index.html",
+		"/C/Users/Caracola/Desktop/Caracola/Laboratoria/index.html",
+		"/C/Users/Caracola/AppData/Roaming/Sublime Text 3/Packages/User/abrir navegador.sublime-build",
+		"/C/Users/Caracola/Desktop/Laboratoria martes/index2.html",
+		"/C/Users/Caracola/Desktop/Laboratoria martes/index.html",
+		"/C/Users/Caracola/Desktop/Laboratoria martes/app2.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/abrir navegador.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
